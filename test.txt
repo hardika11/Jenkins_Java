@@ -1,0 +1,15 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 8CFE-357F
+
+ Directory of F:\KJSCE\Sem 7\DevOps_Lab\Java\Jenkins_Java
+
+16-09-2021  15:38    <DIR>          .
+16-09-2021  15:38    <DIR>          ..
+16-09-2021  14:39                66 .gitattributes
+16-09-2021  15:25               549 index.txt
+01-04-2021  18:23             1,036 P3.class
+01-04-2021  18:23               298 P3.java
+16-09-2021  14:39                17 README.md
+16-09-2021  15:38                 0 test.txt
+               6 File(s)          1,966 bytes
+               2 Dir(s)  174,764,482,560 bytes free
